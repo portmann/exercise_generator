@@ -1,0 +1,22 @@
+77	Lass uns etwas versuchen!	1276	Let's try something.
+80	Was ist das?	42849	What is it?
+80	Was ist das?	66989	What's that?
+80	Was ist das?	392210	What is this?
+80	Was ist das?	413821	What's this?
+80	Was ist das?	464592	What is that?
+81	Heute ist der 18. Juni und das ist der Geburtstag von Muiriel!	1280	Today is June 18th and it is Muiriel's birthday!
+82	Herzlichen Glückwunsch zum Geburtstag, Muiriel!	355041	Happy birthday, Muiriel!
+83	Muiriel ist jetzt 20.	1282	Muiriel is 20 now.
+83	Muiriel ist jetzt 20.	1415809	Muiriel has turned twenty.
+84	Das Passwort ist "Muiriel".	1283	The password is "Muiriel".
+85	Ich werde bald zurück sein.	1284	I will be back soon.
+85	Ich werde bald zurück sein.	593670	I'll be back right away.
+87	Ich finde keine Worte.	1286	I'm at a loss for words.
+87	Ich finde keine Worte.	1312015	I have no words.
+87	Ich finde keine Worte.	436541	I don't know what to say.
+88	Das wird nie enden.	1287	This is never going to end.
+89	Ich weiß einfach nicht, was ich sagen soll.	1288	I just don't know what to say.
+89	Ich weiß einfach nicht, was ich sagen soll.	693485	I simply don't know what to say...
+89	Ich weiß einfach nicht, was ich sagen soll.	1196168	I simply don't know what to tell...
+90	Das war ein böses Kaninchen.	1289	That was an evil bunny.
+91	Ich war in den Bergen.	1290	I was in the mountains.
